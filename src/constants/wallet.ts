@@ -1,0 +1,1 @@
+export const WALLETS_LOCAL_STORAGE_KEY = 'wallets';
